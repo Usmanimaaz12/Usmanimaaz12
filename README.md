@@ -1,5 +1,7 @@
-### Hi there, I'm Maaz Usmani...👦,
-A Full Stack Web developer🎯 from India.
+<p align="center">
+  <h1>Hi there, I'm Maaz Usmani...👦</h1>
+  <h4>A Full Stack Web developer🎯 from India.</h4>
+</p>
 
 - 👨‍💻 Full Stack MERN Developer
 - 🎓 Final year B.Tech-IT student

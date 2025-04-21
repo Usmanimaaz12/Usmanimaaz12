@@ -1,10 +1,10 @@
 <p align="center">
   <h1>Hi there, I'm Maaz Usmani...👦</h1>
-  <h4>A Full Stack Web developer🎯 from India.</h4>
+  <h4>A passionate Full Stack Web Developer 💻 based in India.</h4>
 </p>
 
-- 👨‍💻 Full Stack MERN Developer
-- 🎓 Final year B.Tech-IT student
+- 👨‍💻 Software Engineer
+- 🎓 B.Tech (IT), 2024
 - 📚 What do I believe? Jack of all, Master of some.
 
 **Languages:**  
